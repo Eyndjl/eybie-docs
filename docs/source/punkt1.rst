@@ -1,0 +1,5 @@
+Блаблаблабла куча текста блаблабл
+
+.. code-block:: console
+
+   (.venv) $ pip install python3

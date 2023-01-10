@@ -3,7 +3,7 @@
 
 **Крупный текст** *курсив* `ссылка <https://github.com/Eyndjl/eybie-docs/>`_
 
-Ссылка на :doc:`пункт 1`
+Ссылка на :doc:`punkt1`
 
 .. note::
 
@@ -14,5 +14,5 @@ Contents
 
 .. toctree::
 
-   пункт 1
+   punkt1
    api
